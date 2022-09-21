@@ -1,0 +1,14 @@
+C:\Users\jusdaboiz\Desktop\Repos\TypesOfCars\TypesOfCars\bin\Debug\netcoreapp3.1\TypesOfCars.exe
+C:\Users\jusdaboiz\Desktop\Repos\TypesOfCars\TypesOfCars\bin\Debug\netcoreapp3.1\TypesOfCars.deps.json
+C:\Users\jusdaboiz\Desktop\Repos\TypesOfCars\TypesOfCars\bin\Debug\netcoreapp3.1\TypesOfCars.runtimeconfig.json
+C:\Users\jusdaboiz\Desktop\Repos\TypesOfCars\TypesOfCars\bin\Debug\netcoreapp3.1\TypesOfCars.runtimeconfig.dev.json
+C:\Users\jusdaboiz\Desktop\Repos\TypesOfCars\TypesOfCars\bin\Debug\netcoreapp3.1\TypesOfCars.dll
+C:\Users\jusdaboiz\Desktop\Repos\TypesOfCars\TypesOfCars\bin\Debug\netcoreapp3.1\TypesOfCars.pdb
+C:\Users\jusdaboiz\Desktop\Repos\TypesOfCars\TypesOfCars\obj\Debug\netcoreapp3.1\TypesOfCars.csproj.AssemblyReference.cache
+C:\Users\jusdaboiz\Desktop\Repos\TypesOfCars\TypesOfCars\obj\Debug\netcoreapp3.1\TypesOfCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jusdaboiz\Desktop\Repos\TypesOfCars\TypesOfCars\obj\Debug\netcoreapp3.1\TypesOfCars.AssemblyInfoInputs.cache
+C:\Users\jusdaboiz\Desktop\Repos\TypesOfCars\TypesOfCars\obj\Debug\netcoreapp3.1\TypesOfCars.AssemblyInfo.cs
+C:\Users\jusdaboiz\Desktop\Repos\TypesOfCars\TypesOfCars\obj\Debug\netcoreapp3.1\TypesOfCars.csproj.CoreCompileInputs.cache
+C:\Users\jusdaboiz\Desktop\Repos\TypesOfCars\TypesOfCars\obj\Debug\netcoreapp3.1\TypesOfCars.dll
+C:\Users\jusdaboiz\Desktop\Repos\TypesOfCars\TypesOfCars\obj\Debug\netcoreapp3.1\TypesOfCars.pdb
+C:\Users\jusdaboiz\Desktop\Repos\TypesOfCars\TypesOfCars\obj\Debug\netcoreapp3.1\TypesOfCars.genruntimeconfig.cache
